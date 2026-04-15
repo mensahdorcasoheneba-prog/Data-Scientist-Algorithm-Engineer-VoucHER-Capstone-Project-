@@ -1,0 +1,386 @@
+{
+  "profiles": [
+    {
+      "id": "sme-001",
+      "business_name": "DODO Design Agency",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.8,
+      "jobs_completed": 18,
+      "jobs_assigned": 20,
+      "min_rate": 500000
+    },
+    {
+      "id": "sme-002",
+      "business_name": "Oyexious Designs Studio",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.6,
+      "jobs_completed": 21,
+      "jobs_assigned": 23,
+      "min_rate": 450000
+    },
+    {
+      "id": "sme-003",
+      "business_name": "iPrints Nigeria",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.3,
+      "jobs_completed": 15,
+      "jobs_assigned": 18,
+      "min_rate": 350000
+    },
+    {
+      "id": "sme-004",
+      "business_name": "HYFIG Digital Services Ltd",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.7,
+      "jobs_completed": 19,
+      "jobs_assigned": 20,
+      "min_rate": 400000
+    },
+    {
+      "id": "sme-005",
+      "business_name": "Accuxel Prints & Design",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.5,
+      "jobs_completed": 14,
+      "jobs_assigned": 16,
+      "min_rate": 300000
+    },
+    {
+      "id": "sme-006",
+      "business_name": "Digiprints International Ltd",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.4,
+      "jobs_completed": 13,
+      "jobs_assigned": 17,
+      "min_rate": 320000
+    },
+    {
+      "id": "sme-007",
+      "business_name": "CKDigital",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.2,
+      "jobs_completed": 11,
+      "jobs_assigned": 14,
+      "min_rate": 280000
+    },
+    {
+      "id": "sme-008",
+      "business_name": "Eko Pixel Studio",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.6,
+      "jobs_completed": 20,
+      "jobs_assigned": 21,
+      "min_rate": 420000
+    },
+    {
+      "id": "sme-009",
+      "business_name": "Precious Adeleke Designs",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.1,
+      "jobs_completed": 10,
+      "jobs_assigned": 12,
+      "min_rate": 250000
+    },
+    {
+      "id": "sme-010",
+      "business_name": "Chini Design",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.9,
+      "jobs_completed": 22,
+      "jobs_assigned": 22,
+      "min_rate": 600000
+    },
+    {
+      "id": "sme-011",
+      "business_name": "Level Seven Creatives",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.3,
+      "jobs_completed": 12,
+      "jobs_assigned": 15,
+      "min_rate": 300000
+    },
+    {
+      "id": "sme-012",
+      "business_name": "Tripwire Creative Studio",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.6,
+      "jobs_completed": 17,
+      "jobs_assigned": 19,
+      "min_rate": 390000
+    },
+    {
+      "id": "sme-013",
+      "business_name": "BrandX Graphics",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.0,
+      "jobs_completed": 9,
+      "jobs_assigned": 11,
+      "min_rate": 260000
+    },
+    {
+      "id": "sme-014",
+      "business_name": "Vector Vista Studio",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.5,
+      "jobs_completed": 16,
+      "jobs_assigned": 18,
+      "min_rate": 340000
+    },
+    {
+      "id": "sme-015",
+      "business_name": "Creative Hive Lagos",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.7,
+      "jobs_completed": 18,
+      "jobs_assigned": 19,
+      "min_rate": 410000
+    },
+    {
+      "id": "sme-016",
+      "business_name": "PixelCraft Nigeria",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.2,
+      "jobs_completed": 11,
+      "jobs_assigned": 14,
+      "min_rate": 280000
+    },
+    {
+      "id": "sme-017",
+      "business_name": "Studio Lagos Branding",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.8,
+      "jobs_completed": 20,
+      "jobs_assigned": 21,
+      "min_rate": 450000
+    },
+    {
+      "id": "sme-018",
+      "business_name": "Visionary Graphics NL",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.1,
+      "jobs_completed": 10,
+      "jobs_assigned": 12,
+      "min_rate": 260000
+    },
+    {
+      "id": "sme-019",
+      "business_name": "BrandMark Studios",
+      "category": "Graphic Design",
+      "is_verified": true,
+      "average_rating": 4.4,
+      "jobs_completed": 15,
+      "jobs_assigned": 16,
+      "min_rate": 350000
+    },
+    {
+      "id": "sme-020",
+      "business_name": "Creative Pulse Design",
+      "category": "Graphic Design",
+      "is_verified": false,
+      "average_rating": 4.3,
+      "jobs_completed": 13,
+      "jobs_assigned": 15,
+      "min_rate": 300000
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-101",
+      "client_name": "Nigerian Breweries PLC",
+      "title": "Brand Revamp & Logo Redesign",
+      "budget": 550000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 75,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-102",
+      "client_name": "GTBank Nigeria",
+      "title": "Corporate Annual Report Graphics",
+      "budget": 650000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 78,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-103",
+      "client_name": "Access Bank PLC",
+      "title": "Social Campaign Visuals",
+      "budget": 450000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 70,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-104",
+      "client_name": "Flutterwave Nigeria Ltd",
+      "title": "Product UI/UX & Graphics",
+      "budget": 800000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 82,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-105",
+      "client_name": "MTN Nigeria",
+      "title": "Outdoor Billboard Design",
+      "budget": 500000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 72,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-106",
+      "client_name": "Lagos State Government",
+      "title": "Public Awareness Flyers & Posters",
+      "budget": 480000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 71,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-107",
+      "client_name": "Jumia Nigeria",
+      "title": "E-Commerce Product Graphics",
+      "budget": 530000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 73,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-108",
+      "client_name": "Naija Brew Events",
+      "title": "Event Branding & Collaterals",
+      "budget": 420000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 68,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-109",
+      "client_name": "Konga Online Stores",
+      "title": "Product Packaging Graphics",
+      "budget": 470000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 70,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-110",
+      "client_name": "BellaNaija Media",
+      "title": "Instagram Campaign Graphics",
+      "budget": 400000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 65,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-111",
+      "client_name": "Nigerian Tourism Board",
+      "title": "Travel Brochure & Poster Designs",
+      "budget": 520000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 74,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-112",
+      "client_name": "GTCO Digital",
+      "title": "Brand Identity Kit",
+      "budget": 600000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 76,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-113",
+      "client_name": "Naija Startup Week",
+      "title": "Conference Branding Graphics",
+      "budget": 440000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 69,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-114",
+      "client_name": "Uniuyo Student Union",
+      "title": "Campus Event Poster Pack",
+      "budget": 300000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 60,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-115",
+      "client_name": "Lekki Creative Hub",
+      "title": "Logo & Visual Identity",
+      "budget": 510000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 72,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-116",
+      "client_name": "Lagos Fashion Week",
+      "title": "Promotional Visual Design",
+      "budget": 580000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 75,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-117",
+      "client_name": "Abuja Arts Collective",
+      "title": "Art Festival Posters",
+      "budget": 430000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 68,
+      "status": "OPEN"
+    },
+    {
+    "id": "job-118",
+      "client_name": "Naija Film Festival",
+      "title": "Event Banner Graphics",
+      "budget": 390000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 64,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-119",
+      "client_name": "Tech Summit Nigeria",
+      "title": "Conference Visual Pack",
+      "budget": 610000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 77,
+      "status": "OPEN"
+    },
+    {
+      "id": "job-120",
+      "client_name": "Webpreneurs Club",
+      "title": "Website Graphics & Icons",
+      "budget": 450000,
+      "required_category": "Graphic Design",
+      "min_score_requirement": 70,
+      "status": "OPEN"
+    }
+  ]
+}
